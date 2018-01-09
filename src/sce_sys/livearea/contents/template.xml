@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<livearea style="a1" format-ver="01.00">
+	<livearea-background>
+		<image>bg0.png</image>
+	</livearea-background>
+
+	<frame id="frame3" multi="o" autoflip="0" >
+		<liveitem>
+			<text origin="background" line-align="center" margin-bottom="1">
+				<str size="25" bold="on" shadow="on">　</str>
+				<str size="40" bold="on" shadow="on">Plugin Box - v0r2</str>
+				<str size="25" bold="on" shadow="on">　
+				</str>
+				<str size="21" bold="on" shadow="on">
+					Plugin Box - The Manager Plugins for PlayStation®Vita.
+					®2018 Team ONElua - ONElua.x10.mx
+				</str>
+			</text>
+		</liveitem>
+	</frame>
+</livearea>
